@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"exception","l":"FileIsNotPhotoException"},{"p":"exception","l":"FolderDoesntExistException"},{"p":"<Unnamed>","l":"ImageSegregate"},{"p":"<Unnamed>","l":"InternetConnection"},{"p":"<Unnamed>","l":"JIn"},{"p":"<Unnamed>","l":"main"},{"p":"exception","l":"NoInternetConnectionException"},{"p":"<Unnamed>","l":"ValidDirectoryCreator"}]
