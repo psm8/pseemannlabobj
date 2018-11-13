@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.kis.java2015.domain.HeapTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2018-11-12T23:49:52" hostname="DESKTOP-9ORV25T" time="0.016">
+  <properties/>
+  <testcase name="repleceMaxThrowsHeapUnderflowException" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.01"/>
+  <testcase name="MergeHeaps5and3Elements_SizeIs8TopIs9" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="insert0And2And3And5And6intoNewHeap_topIs6" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="insert0AndThen2intoNewHeap_topIs2" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="ExtractMax5Times_TopIs5320_SizeIs5" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="IntegerHeapTest" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="mergeThrowsHeapUnderflowException" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="RepleceWith4_TopIs5ThenTopIs4" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="DeleteMax5Times_SizeIs0" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="MeldHeaps5and3Elements_SizeIs8TopIs9" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="extractMaxThrowsHeapUnderflowException" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.001"/>
+  <testcase name="insert0intoNewHeap_topIs0" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <testcase name="meldThrowsHeapUnderflowException" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.002"/>
+  <testcase name="deleteMaxThrowsHeapUnderflowException" classname="pl.edu.agh.kis.java2015.domain.HeapTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

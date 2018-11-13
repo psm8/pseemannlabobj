@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MammothTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-11-11T23:24:38" hostname="DESKTOP-9ORV25T" time="0.01">
+  <properties/>
+  <testcase name="throwsInadequateFoodException2" classname="MammothTest" time="0.002"/>
+  <testcase name="throwsInadequateFoodException3" classname="MammothTest" time="0.007"/>
+  <testcase name="throwsInadequateFoodException" classname="MammothTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
